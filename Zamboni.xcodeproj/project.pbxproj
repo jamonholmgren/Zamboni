@@ -12,6 +12,8 @@
 		E98A4EEB27AC7CAC0002DFAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E98A4EEA27AC7CAC0002DFAF /* Assets.xcassets */; };
 		E98A4EEE27AC7CAC0002DFAF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E98A4EED27AC7CAC0002DFAF /* Preview Assets.xcassets */; };
 		E98A4EF527ACACE80002DFAF /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = E98A4EF427ACACE80002DFAF /* data.json */; };
+		E98A4EF727ACD4410002DFAF /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = E98A4EF627ACD4410002DFAF /* API.swift */; };
+		E98A4EFB27ACDA460002DFAF /* PersonRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E98A4EFA27ACDA460002DFAF /* PersonRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		E98A4EEA27AC7CAC0002DFAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E98A4EED27AC7CAC0002DFAF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E98A4EF427ACACE80002DFAF /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		E98A4EF627ACD4410002DFAF /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		E98A4EFA27ACDA460002DFAF /* PersonRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,11 +57,13 @@
 		E98A4EE527AC7CAB0002DFAF /* Zamboni */ = {
 			isa = PBXGroup;
 			children = (
+				E98A4EF927ACDA350002DFAF /* Views */,
 				E98A4EE627AC7CAB0002DFAF /* ZamboniApp.swift */,
 				E98A4EE827AC7CAB0002DFAF /* ContentView.swift */,
 				E98A4EEA27AC7CAC0002DFAF /* Assets.xcassets */,
 				E98A4EEC27AC7CAC0002DFAF /* Preview Content */,
 				E98A4EF427ACACE80002DFAF /* data.json */,
+				E98A4EF627ACD4410002DFAF /* API.swift */,
 			);
 			path = Zamboni;
 			sourceTree = "<group>";
@@ -68,6 +74,14 @@
 				E98A4EED27AC7CAC0002DFAF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E98A4EF927ACDA350002DFAF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E98A4EFA27ACDA460002DFAF /* PersonRow.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -142,6 +156,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E98A4EE927AC7CAB0002DFAF /* ContentView.swift in Sources */,
+				E98A4EFB27ACDA460002DFAF /* PersonRow.swift in Sources */,
+				E98A4EF727ACD4410002DFAF /* API.swift in Sources */,
 				E98A4EE727AC7CAB0002DFAF /* ZamboniApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
