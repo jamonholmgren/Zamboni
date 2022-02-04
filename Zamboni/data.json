@@ -1,0 +1,80 @@
+{
+  "company": "Infinite Red, Inc",
+  "yearFounded": "2015",
+  "website": "https://www.infinite.red/",
+  "description": "Infinite Red is a React Native agency that specializes in building mobile apps for iOS and Android. We build apps that are easy to use, beautiful, and performant. We use React Native to build our apps, and we use the latest and greatest tools to make sure that our apps are fast, responsive, and performant.",
+  "team": [
+    {
+      "name": "Jamon Holmgren",
+      "title": "CTO",
+      "image": "https://clue.infinite.red/avatars/jamon.jpg"
+    },
+    {
+      "name": "Mark Rickert",
+      "title": "Principal Software Engineer",
+      "image": "https://clue.infinite.red/avatars/mark.jpg"
+    },
+    {
+      "name": "Bryan Stearns",
+      "title": "Principal Software Engineer",
+      "image": "https://clue.infinite.red/avatars/bryan.jpg"
+    },
+    {
+      "name": "Darin Wilson",
+      "title": "Principal Software Engineer",
+      "image": "https://clue.infinite.red/avatars/darin.jpg"
+    },
+    {
+      "name": "Derek Greenberg",
+      "title": "Principal Software Engineer",
+      "image": "https://clue.infinite.red/avatars/derek.jpg"
+    },
+    {
+      "name": "Robin Heinze",
+      "title": "Senior Software Engineer",
+      "image": "https://clue.infinite.red/avatars/robin.jpg"
+    },
+    {
+      "name": "Lizzi Lindboe",
+      "title": "Senior Software Engineer",
+      "image": "https://clue.infinite.red/avatars/lizzi.jpg"
+    },
+    {
+      "name": "Mazen Chami",
+      "title": "Senior Software Engineer",
+      "image": "https://clue.infinite.red/avatars/mazen.jpg"
+    },
+    {
+      "name": "Yulian Glukhenko",
+      "title": "Senior Software Engineer",
+      "image": "https://clue.infinite.red/avatars/yulian.jpg"
+    },
+    {
+      "name": "Jon Major Condon",
+      "title": "Senior Software Engineer",
+      "image": "https://clue.infinite.red/avatars/jon%20major.jpg"
+    },
+    {
+      "name": "Leon Kim",
+      "title": "Senior Software Engineer",
+      "image": "https://clue.infinite.red/avatars/leon.jpg"
+    },
+
+    {
+      "name": "Carlin Isaacson",
+      "title": "Senior Software Engineer",
+      "image": "https://clue.infinite.red/avatars/carlin.jpg"
+    },
+
+    {
+      "name": "Silas Matson",
+      "title": "Senior Software Engineer",
+      "image": "https://clue.infinite.red/avatars/silas.jpg"
+    },
+    {
+      "name": "Kate Kim",
+      "title": "Software Engineer",
+      "image": "https://clue.infinite.red/avatars/kate.jpg"
+    }
+  ]
+}
